@@ -1,0 +1,27 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 300px;
+    margin: 200px 800px;
+  }
+  
+  fieldset{
+    padding: 50px 50px;
+  }
+  
+  fieldset input{
+    padding: 10px 15px;
+    margin: 7px 0px;
+  }
+  
+  
+.btn{
+position: absolute;
+right: 51%;
+bottom: 41%;
+}  
+
+p{
+  margin: 60px 0px;
+}
